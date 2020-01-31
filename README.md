@@ -20,10 +20,12 @@ Links to nice sources of knowledge regarding technologies, tools, processes, bes
 ## Android
 
 - https://androidweekly.net/ - Newsletter
+- http://www.kotlinweekly.net/ -  Newsletter
 - https://proandroiddev.com/ - Posts from Android Professionals and Google Developer Experts
 - https://android-developers.googleblog.com/ - The latest Android and Google Play news for app and game developers.
 - https://9to5google.com/ - News portal
 - https://medium.com/androiddevelopers - The official Android Developers publication on Medium
+
 
 ## Android "Gurus":
 
