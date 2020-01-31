@@ -36,4 +36,8 @@ Links to nice sources of knowledge regarding technologies, tools, processes, bes
 
 ## .Net
 
+### Conferences and Events
+- https://www.dotnetconf.net/ - .NET Conf
+- https://codegarden20.com/ - Umbraco Code Garden 2020
+
 # DevOps
