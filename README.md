@@ -13,6 +13,7 @@ Links to nice sources of knowledge regarding technologies, tools, processes, bes
 - https://www.idownloadblog.com/ - News Portal
 
 ### Conferences and Events
+
 - https://swiftaveiro.xyz/ - Swift Aveiro
 - http://appdevcon.nl/ - Appdevcon
 
@@ -24,6 +25,7 @@ Links to nice sources of knowledge regarding technologies, tools, processes, bes
 - https://9to5google.com/ - News portal
 
 ### Conferences and Events
+
 - https://www.google.com/io - Google  iO
 - https://developer.android.com/dev-summit - Android Dev Summit
 
@@ -36,7 +38,10 @@ Links to nice sources of knowledge regarding technologies, tools, processes, bes
 
 ## .Net
 
+- https://www.dotnetweekly.com/ - Newsletter
+
 ### Conferences and Events
+
 - https://www.dotnetconf.net/ - .NET Conf
 - https://codegarden20.com/ - Umbraco Code Garden 2020
 
