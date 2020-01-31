@@ -49,6 +49,7 @@ Links to nice sources of knowledge regarding technologies, tools, processes, bes
 ## .Net
 
 - https://www.dotnetweekly.com/ - Newsletter
+- https://dev.to/ - Portal posts
 
 ### Conferences and Events
 
