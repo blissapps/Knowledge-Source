@@ -27,7 +27,7 @@ Links to nice sources of knowledge regarding technologies, tools, processes, bes
 - https://medium.com/androiddevelopers - The official Android Developers publication on Medium
 
 
-## Android "Gurus":
+### Android "Gurus":
 
 - https://commonsware.com/blog - Mark Murphy
 - http://blog.danlew.net/ - Dan Lew
