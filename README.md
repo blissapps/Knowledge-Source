@@ -44,6 +44,20 @@ Links to nice sources of knowledge regarding technologies, tools, processes, bes
 
 # Web Frontend
 
+## Talks
+
+- https://awesometalks.party/ - repository of general tech talks (slightly directed to web dev)
+
+## Newsletters
+
+- https://css-weekly.com/ - roundup of css articles, tutorials, etc
+- https://uianimationnewsletter.com/- keeping up-to-date on the best web animation out there
+- https://cassidoo.co/newsletter/ - a weekly tech newsletter with content for everyone
+
+## JavaScript
+
+- https://github.com/getify/You-Dont-Know-JS - a series of books diving deep into the core of JS
+
 ## Vue JS
 
 # Backend/Server-Side
